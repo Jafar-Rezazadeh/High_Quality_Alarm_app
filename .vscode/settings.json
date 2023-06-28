@@ -1,0 +1,5 @@
+{
+  "git.enabled": true,
+  "cmake.configureOnOpen": false,
+  "cmake.sourceDirectory": "F:/projects/desktop-frameworks/flutter/production/high_quality_clock/windows"
+}
