@@ -1,4 +1,17 @@
 # high_quality_clock
+<br/>
+<br/>
+
+# Preview
+ 
+
+https://github.com/Jafar-Rezazadeh/High_Quality_Alarm_app/assets/59100135/181b833a-2ee8-45f2-96e1-168d43dfec01
+
+
+
+
+ <br/>
+ <br/>
  ## نرم افزار ساخته شده با فریم ورک Flutter برای پلتفرم Windows 
  نرم افزاری برای زمان بندی کارها،<br/>
  
