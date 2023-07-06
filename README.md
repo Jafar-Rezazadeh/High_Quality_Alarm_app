@@ -1,16 +1,14 @@
 # high_quality_clock
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## نرم افزار ساخته شده با فریم ورک Flutter برای پلتفرم Windows 
+ نرم افزاری برای زمان بندی کارها،<br/>
+ 
+ با سه ویژگی: زمانبندی برای تکرار روزانه ، افزودن تایمر و کورنومتر، با کیفیت ui خوب.<br/>
+ <br/>
+ <br/>
+ شما می توانید با درخواست دسترسی فایل نصبی نرم افزار را از Google drive دانلود کنید با استفاده از این لینک: https://drive.google.com/file/d/1lQNnJlyZ7xV2fVpeNFgh42rdqyVHHL2h/view?usp=drive_link
+ <br/>
+ <br/>
+ <br/>
+ ### برای تماس از طریق ایمیل https://jafarrezazadeh76@gmail.com اقدام فرمایید.
+ 
+ 
